@@ -1,0 +1,78 @@
+Data;RamalNumero;Usuario;RamalStatusDetalhe;DuracaoEvento
+03/11/2026 00:00:00;2000;Ana Souza;Almoço;3356
+03/11/2026 00:00:00;2000;Ana Souza;Café;1237
+03/11/2026 00:00:00;2000;Ana Souza;Banheiro;133
+03/11/2026 00:00:00;2000;Ana Souza;Banheiro;407
+03/11/2026 00:00:00;2000;Ana Souza;Não Disponível;489
+03/11/2026 00:00:00;2000;Ana Souza;Retorno Cliente;270
+03/11/2026 00:00:00;2000;Ana Souza;Retorno Cliente;191
+03/11/2026 00:00:00;2000;Ana Souza;Retorno Cliente;327
+03/11/2026 00:00:00;2001;Bruno Lima;Almoço;3206
+03/11/2026 00:00:00;2001;Bruno Lima;Café;1152
+03/11/2026 00:00:00;2001;Bruno Lima;Banheiro;262
+03/11/2026 00:00:00;2001;Bruno Lima;Não Disponível;280
+03/11/2026 00:00:00;2001;Bruno Lima;Feedback;404
+03/11/2026 00:00:00;2001;Bruno Lima;Atendimento WhatsApp;229
+03/11/2026 00:00:00;2002;Carla Mendes;Almoço;3615
+03/11/2026 00:00:00;2002;Carla Mendes;Café;1072
+03/11/2026 00:00:00;2002;Carla Mendes;Banheiro;255
+03/11/2026 00:00:00;2002;Carla Mendes;Banheiro;142
+03/11/2026 00:00:00;2002;Carla Mendes;Não Disponível;187
+03/11/2026 00:00:00;2002;Carla Mendes;Não Disponível;447
+03/11/2026 00:00:00;2002;Carla Mendes;Não Disponível;140
+03/11/2026 00:00:00;2002;Carla Mendes;Feedback;670
+03/11/2026 00:00:00;2002;Carla Mendes;Retorno Cliente;300
+03/11/2026 00:00:00;2003;Diego Rocha;Almoço;2973
+03/11/2026 00:00:00;2003;Diego Rocha;Café;953
+03/11/2026 00:00:00;2003;Diego Rocha;Banheiro;160
+03/11/2026 00:00:00;2003;Diego Rocha;Não Disponível;163
+03/11/2026 00:00:00;2003;Diego Rocha;Feedback;584
+03/11/2026 00:00:00;2003;Diego Rocha;Retorno Cliente;282
+03/11/2026 00:00:00;2003;Diego Rocha;Retorno Cliente;333
+03/11/2026 00:00:00;2003;Diego Rocha;Retorno Cliente;213
+03/11/2026 00:00:00;2004;Elisa Prado;Almoço;3638
+03/11/2026 00:00:00;2004;Elisa Prado;Café;1083
+03/11/2026 00:00:00;2004;Elisa Prado;Não Disponível;133
+03/11/2026 00:00:00;2004;Elisa Prado;Não Disponível;235
+03/11/2026 00:00:00;2004;Elisa Prado;Retorno Cliente;238
+03/11/2026 00:00:00;2004;Elisa Prado;Atendimento WhatsApp;318
+03/11/2026 00:00:00;2005;Felipe Torres;Almoço;3329
+03/11/2026 00:00:00;2005;Felipe Torres;Café;1052
+03/11/2026 00:00:00;2005;Felipe Torres;Não Disponível;92
+03/11/2026 00:00:00;2005;Felipe Torres;Feedback;710
+03/11/2026 00:00:00;2005;Felipe Torres;Retorno Cliente;136
+03/11/2026 00:00:00;2005;Felipe Torres;Retorno Cliente;174
+03/11/2026 00:00:00;2005;Felipe Torres;Atendimento WhatsApp;547
+03/11/2026 00:00:00;2005;Felipe Torres;Atendimento WhatsApp;341
+03/11/2026 00:00:00;2006;Gabriela Nunes;Almoço;3315
+03/11/2026 00:00:00;2006;Gabriela Nunes;Café;1231
+03/11/2026 00:00:00;2006;Gabriela Nunes;Banheiro;449
+03/11/2026 00:00:00;2006;Gabriela Nunes;Não Disponível;206
+03/11/2026 00:00:00;2006;Gabriela Nunes;Não Disponível;331
+03/11/2026 00:00:00;2006;Gabriela Nunes;Não Disponível;202
+03/11/2026 00:00:00;2006;Gabriela Nunes;Retorno Cliente;311
+03/11/2026 00:00:00;2006;Gabriela Nunes;Retorno Cliente;269
+03/11/2026 00:00:00;2006;Gabriela Nunes;Atendimento WhatsApp;478
+03/11/2026 00:00:00;2007;Hugo Martins;Almoço;3697
+03/11/2026 00:00:00;2007;Hugo Martins;Café;1090
+03/11/2026 00:00:00;2007;Hugo Martins;Não Disponível;581
+03/11/2026 00:00:00;2007;Hugo Martins;Feedback;393
+03/11/2026 00:00:00;2008;Isabela Costa;Almoço;3193
+03/11/2026 00:00:00;2008;Isabela Costa;Café;1362
+03/11/2026 00:00:00;2008;Isabela Costa;Não Disponível;125
+03/11/2026 00:00:00;2008;Isabela Costa;Não Disponível;454
+03/11/2026 00:00:00;2008;Isabela Costa;Não Disponível;450
+03/11/2026 00:00:00;2008;Isabela Costa;Feedback;841
+03/11/2026 00:00:00;2008;Isabela Costa;Retorno Cliente;261
+03/11/2026 00:00:00;2008;Isabela Costa;Retorno Cliente;340
+03/11/2026 00:00:00;2009;João Ribeiro;Almoço;3114
+03/11/2026 00:00:00;2009;João Ribeiro;Café;1269
+03/11/2026 00:00:00;2009;João Ribeiro;Banheiro;448
+03/11/2026 00:00:00;2009;João Ribeiro;Não Disponível;174
+03/11/2026 00:00:00;2009;João Ribeiro;Não Disponível;360
+03/11/2026 00:00:00;2009;João Ribeiro;Feedback;461
+03/11/2026 00:00:00;2009;João Ribeiro;Retorno Cliente;120
+03/11/2026 00:00:00;2009;João Ribeiro;Retorno Cliente;304
+03/11/2026 00:00:00;2009;João Ribeiro;Retorno Cliente;344
+03/11/2026 00:00:00;2009;João Ribeiro;Atendimento WhatsApp;314
+03/11/2026 00:00:00;2009;João Ribeiro;Atendimento WhatsApp;436
